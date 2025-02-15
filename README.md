@@ -60,7 +60,7 @@ When the AMP is placed stationary and upright, the z component represents the Ea
 
 ### AMP says WOOF!
 
-The AMP was getting antsy staying stationary, so it went on a walk in the negative y direction while slowly increasing speed, as shown in **Figure 4.2**.  
+The AMP was getting antsy staying stationary, so it went on a walk in the negative y direction while slowly increasing acceleration, as shown in **Figure 4.2**.  
 
 ![alt text](walking.png)  
 **Figure 4.2**  
